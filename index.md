@@ -1,5 +1,7 @@
 # 我们的产品
 
+*提示：由于GitHub是**国外网站**，所以下载速度稍慢，请耐心等待*
+
 ## Scratch Maker
 
 [奇松英才教育-初赛参赛作品(说明在此处)](http://www.cqcodeai.com/GateWay/Work?WorkId=73f9eb82-0286-4953-8392-83f1330e0a9a)
