@@ -6,19 +6,21 @@
 
 [在线玩](https://tustudionet.github.io/OnlineToolsOrGames/ScratchMaker/index.html)
 
-
+[下载 Windows x64](https://github.com/TuStudioNet/project/releases/download/Downloads/ScratchMaker1.0.0full-setup.exe)
 
 ## 植物大战僵尸模组版
 
-当PVZ遇上了MCMods！
+当PVZ遇上了MCMods！[详情](https://github.com/TuStudioNet/project/releases/tag/Downloads1)
 
 [在线玩](https://tustudionet.github.io/OnlineToolsOrGames/plantvszonmod/index.html)
 
+[下载 Windows x64](https://github.com/TuStudioNet/project/releases/download/Downloads1/plants-vs-zombies-mods-setup.zip)
+
 ## 弓箭手
 
-[正在制作中](https://tustudionet.github.io/archermakeing.txt)
+[没了](https://tustudionet.github.io/archerko.txt)
 
 ## Mini World
 
-[正在制作中](https://tustudionet.github.io/miniworldmakeing.txt)
+[鸽了](https://tustudionet.github.io/miniworldgugugu.txt)
 
